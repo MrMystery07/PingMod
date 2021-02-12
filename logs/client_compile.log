@@ -1,0 +1,6 @@
+src\minecraft\net\pingmod\utils\AddonLoader.java:26: warning: [deprecation] toURL() in File has been deprecated
+			URL jarURL = new File(PingMod.minecraftPath + "/PingMod/addons-1.8.8/" + orginalname).toURL();
+			                                                                                     ^
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+1 warning

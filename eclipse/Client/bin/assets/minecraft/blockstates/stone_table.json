@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=west": { "model": "stone_table", "y": 180 },
+        "facing=north": { "model": "stone_table", "y": 270 },
+        "facing=east": { "model": "stone_table", "y": 360 },
+        "facing=south": { "model": "stone_table", "y": 90 }
+    }
+}

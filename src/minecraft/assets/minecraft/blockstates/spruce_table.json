@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=west": { "model": "spruce_table", "y": 180 },
+        "facing=north": { "model": "spruce_table", "y": 270 },
+        "facing=east": { "model": "spruce_table", "y": 360 },
+        "facing=south": { "model": "spruce_table", "y": 90 }
+    }
+}

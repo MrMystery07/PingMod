@@ -1,0 +1,93 @@
+---- Minecraft Crash Report ----
+// Shall we play a game?
+
+Time: 10.02.21, 16:41
+Description: Rendering screen
+
+java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 3
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:248)
+	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at net.pingmod.inventar.GuiInventoryList.drawSlot(GuiInventoryList.java:49)
+	at net.pingmod.inventar.GuiSlotInventory.drawSelectionBox(GuiSlotInventory.java:543)
+	at net.pingmod.inventar.GuiSlotInventory.drawScreen(GuiSlotInventory.java:319)
+	at net.pingmod.inventar.GuiInventoryMenuAll.drawScreen(GuiInventoryMenuAll.java:124)
+	at net.minecraft.client.renderer.EntityRenderer.updateCameraAndRender(EntityRenderer.java:1167)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1132)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:415)
+	at net.minecraft.client.main.Main.main(Main.java:117)
+	at Start.main(Start.java:11)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:248)
+	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at net.pingmod.inventar.GuiInventoryList.drawSlot(GuiInventoryList.java:49)
+	at net.pingmod.inventar.GuiSlotInventory.drawSelectionBox(GuiSlotInventory.java:543)
+	at net.pingmod.inventar.GuiSlotInventory.drawScreen(GuiSlotInventory.java:319)
+	at net.pingmod.inventar.GuiInventoryMenuAll.drawScreen(GuiInventoryMenuAll.java:124)
+
+-- Screen render details --
+Details:
+	Screen name: net.pingmod.inventar.GuiInventoryMenuAll
+	Mouse location: Scaled: (83, 0). Absolute: (166, 479)
+	Screen size: Scaled: (427, 240). Absolute: (854, 480). Scale factor of 2
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 1 total; [EntityPlayerSP['MrMystery'/215, l='MpServer', x=578,65, y=72,00, z=350,84]]
+	Chunk stats: MultiplayerChunkCache: 625, 625
+	Level seed: 0
+	Level generator: ID 02 - largeBiomes, ver 0. Features enabled: false
+	Level generator options: 
+	Level spawn location: 584,00,64,00,166,00 - World: (584,64,166), Chunk: (at 8,4,6 in 36,10; contains blocks 576,0,160 to 591,255,175), Region: (1,0; contains chunks 32,0 to 63,31, blocks 512,0,0 to 1023,255,511)
+	Level time: 117335 game time, 13000 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: false
+	Forced entities: 51 total; [EntityPlayerSP['MrMystery'/215, l='MpServer', x=578,65, y=72,00, z=350,84], EntityZombie['Zombie'/10, l='MpServer', x=505,94, y=35,00, z=272,09], EntityZombie['Zombie'/12, l='MpServer', x=517,13, y=29,00, z=288,41], EntityZombie['Zombie'/13, l='MpServer', x=534,41, y=61,00, z=293,84], EntityZombie['Zombie'/142, l='MpServer', x=545,50, y=36,00, z=358,50], EntityCreeper['Creeper'/14, l='MpServer', x=533,50, y=64,00, z=301,50], EntityZombie['Zombie'/143, l='MpServer', x=545,50, y=36,00, z=360,50], EntityCreeper['Creeper'/15, l='MpServer', x=532,50, y=31,00, z=325,50], EntitySkeleton['Skeleton'/144, l='MpServer', x=546,50, y=36,00, z=357,50], EntityCreeper['Creeper'/16, l='MpServer', x=531,50, y=31,00, z=328,50], EntityCreeper['Creeper'/17, l='MpServer', x=541,97, y=31,00, z=324,75], EntityCreeper['Creeper'/18, l='MpServer', x=535,50, y=31,00, z=323,50], EntityZombie['Zombie'/19, l='MpServer', x=532,50, y=31,00, z=330,50], EntityCreeper['Creeper'/151, l='MpServer', x=566,94, y=58,00, z=298,53], EntityCreeper['Creeper'/152, l='MpServer', x=562,50, y=59,00, z=298,50], EntityBat['Bat'/153, l='MpServer', x=564,50, y=36,00, z=333,50], EntityBat['Bat'/154, l='MpServer', x=562,44, y=36,00, z=331,25], EntityCreeper['Creeper'/155, l='MpServer', x=573,59, y=36,00, z=318,88], EntityCreeper['Creeper'/156, l='MpServer', x=572,50, y=36,00, z=323,97], EntityBat['Bat'/157, l='MpServer', x=582,03, y=36,11, z=296,25], EntitySkeleton['Skeleton'/158, l='MpServer', x=587,50, y=28,00, z=319,50], EntityBat['Bat'/159, l='MpServer', x=585,25, y=38,10, z=319,25], EntitySkeleton['Skeleton'/160, l='MpServer', x=585,56, y=28,00, z=326,16], EntityCreeper['Creeper'/161, l='MpServer', x=585,47, y=28,00, z=335,06], EntitySkeleton['Skeleton'/162, l='MpServer', x=587,50, y=28,00, z=320,50], EntityCreeper['Creeper'/163, l='MpServer', x=586,63, y=28,00, z=325,88], EntityBat['Bat'/164, l='MpServer', x=580,75, y=34,10, z=323,38], EntitySkeleton['Skeleton'/165, l='MpServer', x=580,50, y=33,00, z=331,50], EntityBat['Bat'/166, l='MpServer', x=585,41, y=32,06, z=327,25], EntityCreeper['Creeper'/167, l='MpServer', x=600,22, y=36,00, z=327,84], EntityCreeper['Creeper'/168, l='MpServer', x=601,03, y=36,00, z=327,97], EntityCreeper['Creeper'/169, l='MpServer', x=602,91, y=36,00, z=327,41], EntitySpider['Spider'/170, l='MpServer', x=598,50, y=36,00, z=329,50], EntityCreeper['Creeper'/171, l='MpServer', x=593,34, y=28,00, z=339,06], EntityCreeper['Creeper'/175, l='MpServer', x=643,22, y=30,00, z=301,56], EntityBat['Bat'/176, l='MpServer', x=639,44, y=23,10, z=296,13], EntityBat['Bat'/177, l='MpServer', x=633,88, y=23,10, z=312,75], EntityCreeper['Creeper'/178, l='MpServer', x=637,50, y=31,00, z=304,50], EntityMinecartChest['container.minecart'/179, l='MpServer', x=630,50, y=35,06, z=324,50], EntitySkeleton['Skeleton'/180, l='MpServer', x=636,50, y=36,00, z=347,50], EntityCreeper['Creeper'/183, l='MpServer', x=646,97, y=26,00, z=304,47], EntityEnderman['Enderman'/235, l='MpServer', x=500,41, y=35,00, z=368,34], EntityBat['Bat'/237, l='MpServer', x=499,46, y=38,10, z=364,43], EntityBat['Bat'/238, l='MpServer', x=531,93, y=28,50, z=415,33], EntityCreeper['Creeper'/239, l='MpServer', x=542,69, y=37,00, z=419,59], EntityBat['Bat'/240, l='MpServer', x=543,47, y=36,42, z=421,35], EntityMinecartChest['container.minecart'/245, l='MpServer', x=591,50, y=24,00, z=376,91], EntitySkeleton['Skeleton'/246, l='MpServer', x=592,00, y=24,00, z=391,25], EntityWitch['Witch'/248, l='MpServer', x=631,06, y=36,00, z=369,41], EntityWitch['Witch'/249, l='MpServer', x=631,16, y=36,00, z=386,97], EntityCreeper['Creeper'/250, l='MpServer', x=633,81, y=32,00, z=394,81]]
+	Retry entities: 0 total; []
+	Server brand: vanilla
+	Server type: Integrated singleplayer server
+Stacktrace:
+	at net.minecraft.client.multiplayer.WorldClient.addWorldInfoToCrashReport(WorldClient.java:391)
+	at net.minecraft.client.Minecraft.addGraphicsAndWorldToCrashReport(Minecraft.java:2723)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:437)
+	at net.minecraft.client.main.Main.main(Main.java:117)
+	at Start.main(Start.java:11)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.8
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 15.0.1, Oracle Corporation
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 313548088 bytes (299 MB) / 1073741824 bytes (1024 MB) up to 1073741824 bytes (1024 MB)
+	JVM Flags: 3 total; -XX:+ShowCodeDetailsInExceptionMessages -Xmx1024M -Xms1024M
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 98
+	Launched Version: mcp
+	LWJGL: 2.9.1
+	OpenGL: GeForce GT 730/PCIe/SSE2 GL version 4.6.0 NVIDIA 456.71, NVIDIA Corporation
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: No
+	Is Modded: Very likely; Jar signature invalidated
+	Type: Client (map_client.txt)
+	Resource Packs: []
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)

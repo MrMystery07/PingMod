@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=west": { "model": "dark_oak_table", "y": 180 },
+        "facing=north": { "model": "dark_oak_table", "y": 270 },
+        "facing=east": { "model": "dark_oak_table", "y": 360 },
+        "facing=south": { "model": "dark_oak_table", "y": 90 }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=west": { "model": "stripped_birch_table", "y": 180 },
+        "facing=north": { "model": "stripped_birch_table", "y": 270 },
+        "facing=east": { "model": "stripped_birch_table", "y": 360 },
+        "facing=south": { "model": "stripped_birch_table", "y": 90 }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=west": { "model": "andesite_table", "y": 180 },
+        "facing=north": { "model": "andesite_table", "y": 270 },
+        "facing=east": { "model": "andesite_table", "y": 360 },
+        "facing=south": { "model": "andesite_table", "y": 90 }
+    }
+}

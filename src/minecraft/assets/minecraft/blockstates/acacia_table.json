@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=west": { "model": "acacia_table", "y": 180 },
+        "facing=north": { "model": "acacia_table", "y": 270 },
+        "facing=east": { "model": "acacia_table", "y": 360 },
+        "facing=south": { "model": "acacia_table", "y": 90 }
+    }
+}

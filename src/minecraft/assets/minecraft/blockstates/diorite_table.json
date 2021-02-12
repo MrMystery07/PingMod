@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=west": { "model": "diorite_table", "y": 180 },
+        "facing=north": { "model": "diorite_table", "y": 270 },
+        "facing=east": { "model": "diorite_table", "y": 360 },
+        "facing=south": { "model": "diorite_table", "y": 90 }
+    }
+}

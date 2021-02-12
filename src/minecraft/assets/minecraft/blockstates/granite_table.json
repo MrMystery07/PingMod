@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=west": { "model": "granite_table", "y": 180 },
+        "facing=north": { "model": "granite_table", "y": 270 },
+        "facing=east": { "model": "granite_table", "y": 360 },
+        "facing=south": { "model": "granite_table", "y": 90 }
+    }
+}

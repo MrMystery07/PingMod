@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "lime_sofa", "y": 90 },
+        "facing=west": { "model": "lime_sofa", "y": 180 },
+        "facing=north": { "model": "lime_sofa", "y": 270 },
+        "facing=east": { "model": "lime_sofa", "y": 0 }
+    }
+}
