@@ -1,29 +1,64 @@
-[20:29:44] [Client thread/INFO]: Setting user: Player559
-[20:29:44] [Client thread/INFO]: (Session ID is token:0:Player559)
-[20:29:45] [Client thread/INFO]: LWJGL Version: 2.9.1
-[20:29:46] [Client thread/INFO]: Reloading ResourceManager: Default
-[20:29:46] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[20:29:46] [Thread-7/INFO]: Initializing LWJGL OpenAL
-[20:29:46] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[20:29:46] [Thread-7/ERROR]: Error in class 'LibraryLWJGLOpenAL'
-[20:29:46] [Thread-7/ERROR]: Unable to initialize OpenAL.  Probable cause: OpenAL not supported.
-[20:29:46] [Thread-7/WARN]: ERROR MESSAGE:
-[20:29:46] [Thread-7/INFO]: Could not locate OpenAL library.
-[20:29:46] [Thread-7/WARN]: STACK TRACE:
-[20:29:46] [Thread-7/INFO]: org.lwjgl.openal.AL.create(AL.java:151)
-[20:29:46] [Thread-7/INFO]: org.lwjgl.openal.AL.create(AL.java:102)
-[20:29:46] [Thread-7/INFO]: org.lwjgl.openal.AL.create(AL.java:201)
-[20:29:46] [Thread-7/INFO]: paulscode.sound.libraries.LibraryLWJGLOpenAL.init(LibraryLWJGLOpenAL.java:164)
-[20:29:46] [Thread-7/INFO]: paulscode.sound.SoundSystem.CommandNewLibrary(SoundSystem.java:1576)
-[20:29:46] [Thread-7/INFO]: paulscode.sound.SoundSystem.CommandQueue(SoundSystem.java:2572)
-[20:29:46] [Thread-7/INFO]: paulscode.sound.CommandThread.run(CommandThread.java:121)
-[20:29:46] [Sound Library Loader/WARN]: ERROR MESSAGE:
-[20:29:46] [Sound Library Loader/INFO]: Could not locate OpenAL library.
-[20:29:46] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[20:29:47] [Thread-9/INFO]: Switching to No Sound
-[20:29:47] [Thread-9/INFO]: (Silent Mode)
-[20:29:47] [Sound Library Loader/INFO]: Sound engine started
-[20:29:48] [Client thread/INFO]: Created: 512x512 textures-atlas
-[20:30:01] [Client thread/INFO]: Stopping!
-[20:30:01] [Client thread/INFO]: SoundSystem shutting down...
-[20:30:01] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[17:59:38] [Client thread/INFO]: Setting user: Player817
+[17:59:38] [Client thread/INFO]: (Session ID is token:0:Player817)
+[17:59:38] [Client thread/INFO]: 
+
+          _____                   _____                   _____                   _____                   _____                  _______                  _____          
+         /\    \                 /\    \                 /\    \                 /\    \                 /\    \                /::\    \                /\    \         
+        /::\    \               /::\    \               /::\____\               /::\    \               /::\____\              /::::\    \              /::\    \        
+       /::::\    \              \:::\    \             /::::|   |              /::::\    \             /::::|   |             /::::::\    \            /::::\    \       
+      /::::::\    \              \:::\    \           /:::::|   |             /::::::\    \           /:::::|   |            /::::::::\    \          /::::::\    \      
+     /:::/\:::\    \              \:::\    \         /::::::|   |            /:::/\:::\    \         /::::::|   |           /:::/~~\:::\    \        /:::/\:::\    \     
+    /:::/__\:::\    \              \:::\    \       /:::/|::|   |           /:::/  \:::\    \       /:::/|::|   |          /:::/    \:::\    \      /:::/  \:::\    \    
+   /::::\   \:::\    \             /::::\    \     /:::/ |::|   |          /:::/    \:::\    \     /:::/ |::|   |         /:::/    / \:::\    \    /:::/    \:::\    \   
+  /::::::\   \:::\    \   ____    /::::::\    \   /:::/  |::|   | _____   /:::/    / \:::\    \   /:::/  |::|___|______  /:::/____/   \:::\____\  /:::/    / \:::\    \  
+ /:::/\:::\   \:::\____\ /\   \  /:::/\:::\    \ /:::/   |::|   |/\    \ /:::/    /   \:::\ ___\ /:::/   |::::::::\    \|:::|    |     |:::|    |/:::/    /   \:::\ ___\ 
+/:::/  \:::\   \:::|    /::\   \/:::/  \:::\____/:: /    |::|   /::\____/:::/____/  ___\:::|    /:::/    |:::::::::\____|:::|____|     |:::|    /:::/____/     \:::|    |
+\::/    \:::\  /:::|____\:::\  /:::/    \::/    \::/    /|::|  /:::/    \:::\    \ /\  /:::|____\::/    / ~~~~~/:::/    /\:::\    \   /:::/    /\:::\    \     /:::|____|
+ \/_____/\:::\/:::/    / \:::\/:::/    / \/____/ \/____/ |::| /:::/    / \:::\    /::\ \::/    / \/____/      /:::/    /  \:::\    \ /:::/    /  \:::\    \   /:::/    / 
+          \::::::/    /   \::::::/    /                  |::|/:::/    /   \:::\   \:::\ \/____/              /:::/    /    \:::\    /:::/    /    \:::\    \ /:::/    /  
+           \::::/    /     \::::/____/                   |::::::/    /     \:::\   \:::\____\               /:::/    /      \:::\__/:::/    /      \:::\    /:::/    /   
+            \::/____/       \:::\    \                   |:::::/    /       \:::\  /:::/    /              /:::/    /        \::::::::/    /        \:::\  /:::/    /    
+             ~~              \:::\    \                  |::::/    /         \:::\/:::/    /              /:::/    /          \::::::/    /          \:::\/:::/    /     
+                              \:::\    \                 /:::/    /           \::::::/    /              /:::/    /            \::::/    /            \::::::/    /      
+                               \:::\____\               /:::/    /             \::::/    /              /:::/    /              \::/____/              \::::/    /       
+                                \::/    /               \::/    /               \::/____/               \::/    /                ~~                     \::/____/        
+                                 \/____/                 \/____/                                         \/____/                                         ~~              
+                                                                                                                                                                         
+
+
+[17:59:38] [Client thread/INFO]: 
+
+  _                 __  __      __  __           _                  
+ | |               |  \/  |    |  \/  |         | |                 
+ | |__  _   _      | \  / |_ __| \  / |_   _ ___| |_ ___ _ __ _   _ 
+ | '_ \| | | |     | |\/| | '__| |\/| | | | / __| __/ _ \ '__| | | |
+ | |_) | |_| |     | |  | | |  | |  | | |_| \__ \ ||  __/ |  | |_| |
+ |_.__/ \__, |     |_|  |_|_|  |_|  |_|\__, |___/\__\___|_|   \__, |
+         __/ |                          __/ |                  __/ |
+        |___/                          |___/                  |___/ 
+
+
+[17:59:39] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:59:39] [Client thread/INFO]: Reloading ResourceManager: Default
+[17:59:39] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[17:59:39] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[17:59:39] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[17:59:39] [Thread-7/ERROR]: Error in class 'LibraryLWJGLOpenAL'
+[17:59:39] [Thread-7/ERROR]: Unable to initialize OpenAL.  Probable cause: OpenAL not supported.
+[17:59:39] [Thread-7/WARN]: ERROR MESSAGE:
+[17:59:39] [Thread-7/INFO]: Could not locate OpenAL library.
+[17:59:39] [Thread-7/WARN]: STACK TRACE:
+[17:59:39] [Thread-7/INFO]: org.lwjgl.openal.AL.create(AL.java:151)
+[17:59:39] [Thread-7/INFO]: org.lwjgl.openal.AL.create(AL.java:102)
+[17:59:39] [Thread-7/INFO]: org.lwjgl.openal.AL.create(AL.java:201)
+[17:59:39] [Thread-7/INFO]: paulscode.sound.libraries.LibraryLWJGLOpenAL.init(LibraryLWJGLOpenAL.java:164)
+[17:59:39] [Thread-7/INFO]: paulscode.sound.SoundSystem.CommandNewLibrary(SoundSystem.java:1576)
+[17:59:39] [Thread-7/INFO]: paulscode.sound.SoundSystem.CommandQueue(SoundSystem.java:2572)
+[17:59:39] [Thread-7/INFO]: paulscode.sound.CommandThread.run(CommandThread.java:121)
+[17:59:40] [Sound Library Loader/WARN]: ERROR MESSAGE:
+[17:59:40] [Sound Library Loader/INFO]: Could not locate OpenAL library.
+[17:59:40] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[17:59:40] [Thread-9/INFO]: Switching to No Sound
+[17:59:40] [Thread-9/INFO]: (Silent Mode)
+[17:59:40] [Sound Library Loader/INFO]: Sound engine started
+[17:59:42] [Client thread/INFO]: Created: 512x512 textures-atlas

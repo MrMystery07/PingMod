@@ -853,7 +853,7 @@ INFO:  MarkerID: CL_00001460 net/minecraft/client/ClientBrandRetriever
 INFO: Processed 503 -> 503
 INFO: Processing net/minecraft/client/LoadingScreenRenderer.class
 INFO:  MarkerID: CL_00000655 net/minecraft/client/LoadingScreenRenderer
-INFO: Processed 5408 -> 5393
+INFO: Processed 5137 -> 5122
 INFO: Processing net/minecraft/client/Minecraft$1.class
 INFO:  MarkerID: CL_00000632 net/minecraft/client/Minecraft$1
 INFO: Processed 1566 -> 1563
@@ -909,7 +909,7 @@ INFO: Processing net/minecraft/client/Minecraft.class
 INFO:  MarkerID: CL_00000631 net/minecraft/client/Minecraft
 FINE: Access: net/minecraft/client/Minecraft/access$100(Lnet/minecraft/client/Minecraft;)Lnet/minecraft/client/resources/LanguageManager; [GETFIELD net/minecraft/client/Minecraft/mcLanguageManager Lnet/minecraft/client/resources/LanguageManager;]
 FINE: Access: net/minecraft/client/Minecraft/access$000(Lnet/minecraft/client/Minecraft;)Ljava/lang/String; [GETFIELD net/minecraft/client/Minecraft/launchedVersion Ljava/lang/String;]
-INFO: Processed 86378 -> 86226
+INFO: Processed 86433 -> 86281
 INFO: Processing net/minecraft/client/audio/GuardianSound.class
 INFO:  MarkerID: CL_00002381 net/minecraft/client/audio/GuardianSound
 INFO: Processed 1615 -> 1615
@@ -1062,7 +1062,7 @@ INFO: Processed 13355 -> 13398
 INFO: Processing net/minecraft/client/gui/GuiCustomizeSkin$ButtonPart.class
 INFO:  MarkerID: CL_00001930 net/minecraft/client/gui/GuiCustomizeSkin$ButtonPart
 FINE: Access: net/minecraft/client/gui/GuiCustomizeSkin$ButtonPart/access$000(Lnet/minecraft/client/gui/GuiCustomizeSkin$ButtonPart;)Lnet/minecraft/entity/player/EnumPlayerModelParts; [GETFIELD net/minecraft/client/gui/GuiCustomizeSkin$ButtonPart/field_175234_p Lnet/minecraft/entity/player/EnumPlayerModelParts;]
-INFO: Processed 1751 -> 1751
+INFO: Processed 1743 -> 1743
 INFO: Processing net/minecraft/client/gui/GuiCustomizeSkin.class
 INFO:  MarkerID: CL_00001932 net/minecraft/client/gui/GuiCustomizeSkin
 FINE: Access: net/minecraft/client/gui/GuiCustomizeSkin/access$100(Lnet/minecraft/client/gui/GuiCustomizeSkin;Lnet/minecraft/entity/player/EnumPlayerModelParts;)Ljava/lang/String; [INVOKESPECIAL net/minecraft/client/gui/GuiCustomizeSkin/func_175358_a (Lnet/minecraft/entity/player/EnumPlayerModelParts;)Ljava/lang/String;]
@@ -1111,7 +1111,7 @@ INFO:  MarkerID: CL_00000661 net/minecraft/client/gui/GuiIngame
 INFO: Processed 29664 -> 29675
 INFO: Processing net/minecraft/client/gui/GuiIngameMenu.class
 INFO:  MarkerID: CL_00000703 net/minecraft/client/gui/GuiIngameMenu
-INFO: Processed 4433 -> 4427
+INFO: Processed 4365 -> 4359
 INFO: Processing net/minecraft/client/gui/GuiKeyBindingList$CategoryEntry.class
 INFO:  MarkerID: CL_00000734 net/minecraft/client/gui/GuiKeyBindingList$CategoryEntry
 INFO: Processed 2447 -> 2447
@@ -1153,7 +1153,7 @@ INFO:  MarkerID: CL_00001952 net/minecraft/client/gui/GuiLockIconButton
 INFO: Processed 2282 -> 2279
 INFO: Processing net/minecraft/client/gui/GuiMainMenu.class
 INFO:  MarkerID: CL_00001154 net/minecraft/client/gui/GuiMainMenu
-INFO: Processed 16915 -> 16949
+INFO: Processed 17185 -> 17221
 INFO: Processing net/minecraft/client/gui/GuiMemoryErrorScreen.class
 INFO:  MarkerID: CL_00000702 net/minecraft/client/gui/GuiMemoryErrorScreen
 INFO: Processed 2962 -> 2962
@@ -1172,7 +1172,7 @@ INFO:  MarkerID: CL_00000669 net/minecraft/client/gui/GuiNewChat
 INFO: Processed 9300 -> 9282
 INFO: Processing net/minecraft/client/gui/GuiOptionButton.class
 INFO:  MarkerID: CL_00000676 net/minecraft/client/gui/GuiOptionButton
-INFO: Processed 1472 -> 1472
+INFO: Processed 1464 -> 1464
 INFO: Processing net/minecraft/client/gui/GuiOptions$1.class
 INFO:  MarkerID: CL_00000701 net/minecraft/client/gui/GuiOptions$1
 INFO: Processed 1955 -> 1952
@@ -1269,7 +1269,7 @@ INFO:  MarkerID: CL_00000691 net/minecraft/client/gui/GuiScreenDemo
 INFO: Processed 4834 -> 4831
 INFO: Processing net/minecraft/client/gui/GuiScreenOptionsSounds$Button.class
 INFO:  MarkerID: CL_00000717 net/minecraft/client/gui/GuiScreenOptionsSounds$Button
-INFO: Processed 4297 -> 4291
+INFO: Processed 4456 -> 4450
 INFO: Processing net/minecraft/client/gui/GuiScreenOptionsSounds.class
 INFO:  MarkerID: CL_00000716 net/minecraft/client/gui/GuiScreenOptionsSounds
 FINE: Access: net/minecraft/client/gui/GuiScreenOptionsSounds/access$000(Lnet/minecraft/client/gui/GuiScreenOptionsSounds;)Lnet/minecraft/client/settings/GameSettings; [GETFIELD net/minecraft/client/gui/GuiScreenOptionsSounds/game_settings_4 Lnet/minecraft/client/settings/GameSettings;]
@@ -1688,7 +1688,7 @@ INFO:  MarkerID: CL_00000849 net/minecraft/client/model/ModelPig
 INFO: Processed 828 -> 828
 INFO: Processing net/minecraft/client/model/ModelPlayer.class
 INFO:  MarkerID: CL_00002626 net/minecraft/client/model/ModelPlayer
-INFO: Processed 8053 -> 8051
+INFO: Processed 8603 -> 8607
 INFO: Processing net/minecraft/client/model/ModelQuadruped.class
 INFO:  MarkerID: CL_00000851 net/minecraft/client/model/ModelQuadruped
 INFO: Processed 2771 -> 2751
@@ -2619,7 +2619,7 @@ INFO:  MarkerID: CL_00002435 net/minecraft/client/renderer/entity/RendererLiving
 INFO: Processed 1263 -> 1252
 INFO: Processing net/minecraft/client/renderer/entity/RendererLivingEntity.class
 INFO:  MarkerID: CL_00001012 net/minecraft/client/renderer/entity/RendererLivingEntity
-INFO: Processed 18280 -> 18295
+INFO: Processed 18253 -> 18268
 INFO: Processing net/minecraft/client/renderer/entity/RenderFallingBlock.class
 INFO:  MarkerID: CL_00000994 net/minecraft/client/renderer/entity/RenderFallingBlock
 INFO: Processed 4866 -> 4866
@@ -2721,7 +2721,7 @@ INFO:  MarkerID: CL_00002434 net/minecraft/client/renderer/entity/RenderPigZombi
 INFO: Processed 2194 -> 2194
 INFO: Processing net/minecraft/client/renderer/entity/RenderPlayer.class
 INFO:  MarkerID: CL_00001020 net/minecraft/client/renderer/entity/RenderPlayer
-INFO: Processed 10142 -> 10138
+INFO: Processed 10261 -> 10257
 INFO: Processing net/minecraft/client/renderer/entity/RenderPotion.class
 INFO:  MarkerID: CL_00002430 net/minecraft/client/renderer/entity/RenderPotion
 INFO: Processed 1604 -> 1604
@@ -4525,16 +4525,16 @@ INFO: Processing net/minecraft/entity/passive/IAnimals.class
 INFO: Processed 126 -> 126
 INFO: Processing net/minecraft/entity/player/EntityPlayer$EnumChatVisibility.class
 INFO:  MarkerID: CL_00001714 net/minecraft/entity/player/EntityPlayer$EnumChatVisibility
-INFO: Processed 2460 -> 2457
+INFO: Processed 2456 -> 2453
 INFO: Processing net/minecraft/entity/player/EntityPlayer$EnumStatus.class
 INFO:  MarkerID: CL_00001712 net/minecraft/entity/player/EntityPlayer$EnumStatus
-INFO: Processed 1716 -> 1713
+INFO: Processed 1704 -> 1701
 INFO: Processing net/minecraft/entity/player/EntityPlayer$SwitchEnumFacing.class
 INFO:  MarkerID: CL_00002188 net/minecraft/entity/player/EntityPlayer$SwitchEnumFacing
 INFO: Processed 1078 -> 1067
 INFO: Processing net/minecraft/entity/player/EntityPlayer.class
 INFO:  MarkerID: CL_00001711 net/minecraft/entity/player/EntityPlayer
-INFO: Processed 51474 -> 51461
+INFO: Processed 52507 -> 52492
 INFO: Processing net/minecraft/entity/player/EntityPlayerMP.class
 INFO:  MarkerID: CL_00001440 net/minecraft/entity/player/EntityPlayerMP
 INFO: Processed 39516 -> 39433
@@ -7620,12 +7620,16 @@ INFO: Copying net/pingmod/altmanager/GuiAccountMenu.class
 INFO: Copying net/pingmod/altmanager/GuiAddAccount.class
 INFO: Copying net/pingmod/altmanager/GuiConfirmDelete.class
 INFO: Copying net/pingmod/altmanager/GuiDirectLogin.class
+INFO: Copying net/pingmod/cosmetics/AnimatedResourceLocation.class
 INFO: Copying net/pingmod/cosmetics/ClassicHat$ClassicHatRenderer.class
 INFO: Copying net/pingmod/cosmetics/ClassicHat.class
 INFO: Copying net/pingmod/cosmetics/CommandController.class
 INFO: Copying net/pingmod/cosmetics/Controller.class
+INFO: Copying net/pingmod/cosmetics/CosmeticCape.class
 INFO: Copying net/pingmod/cosmetics/WitchHat$WitchHatHatrenderer.class
 INFO: Copying net/pingmod/cosmetics/WitchHat.class
+INFO: Copying net/pingmod/cosmetics/Zylinder$ZylinderHatRenderer.class
+INFO: Copying net/pingmod/cosmetics/Zylinder.class
 INFO: Copying net/pingmod/ingamegui/GuiIngameGUI.class
 INFO: Copying net/pingmod/inventar/GuiInventoryList.class
 INFO: Copying net/pingmod/inventar/GuiInventoryMenuAll.class
@@ -7647,6 +7651,8 @@ INFO: Copying net/pingmod/profile/UIButtonForTrustlistPlayer.class
 INFO: Copying net/pingmod/settings/GuiPingModSettings.class
 INFO: Copying net/pingmod/shop/GuiShop.class
 INFO: Copying net/pingmod/shop/UIShopButton.class
+INFO: Copying net/pingmod/updater/GuiUpdateAviable.class
+INFO: Copying net/pingmod/updater/UpdateAviable.class
 INFO: Copying net/pingmod/utils/AddonLoader.class
 INFO: Copying net/pingmod/utils/BlockManager.class
 INFO: Copying net/pingmod/utils/ColorUtils.class

@@ -1,45 +1,52 @@
-[12:05:30] [Client thread/ERROR]: Can't find the resource index file: assets\indexes\1.8.json
-[12:05:30] [Client thread/INFO]: Setting user: Player234
-[12:05:30] [Client thread/INFO]: (Session ID is token:0:Player234)
-[12:05:31] [Client thread/INFO]: LWJGL Version: 2.9.1
-[12:05:31] [Client thread/INFO]: Reloading ResourceManager: Default
-[12:05:31] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[12:05:31] [Thread-6/INFO]: Initializing LWJGL OpenAL
-[12:05:31] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[12:05:31] [Thread-6/INFO]: OpenAL initialized.
-[12:05:32] [Sound Library Loader/INFO]: Sound engine started
-[12:05:33] [Client thread/INFO]: Created: 512x512 textures-atlas
-[12:05:35] [Server thread/INFO]: Starting integrated minecraft server version 1.8
-[12:05:35] [Server thread/INFO]: Generating keypair
-[12:05:35] [Server thread/INFO]: Preparing start region for level 0
-[12:05:36] [Server thread/INFO]: Changing view distance to 8, from 10
-[12:05:36] [Server thread/INFO]: Player234[local:E:e7068e59] logged in with entity id 146 at (-118.44800624074665, 63.0, 5.594030137676905)
-[12:05:36] [Server thread/INFO]: Player234 joined the game
-[12:05:40] [Server thread/INFO]: [CHAT] §f|----------|§bCosmetics§f|----------|
-[12:05:40] [Server thread/INFO]: [CHAT] 
-[12:05:40] [Server thread/INFO]: [CHAT] Wings [TOGGLE]
-[12:05:40] [Server thread/INFO]: [CHAT] Ghostwings [TOGGLE]
-[12:05:40] [Server thread/INFO]: [CHAT] Witchhat [TOGGLE]
-[12:05:40] [Server thread/INFO]: [CHAT] Classichat [TOGGLE]
-[12:05:40] [Server thread/INFO]: [CHAT] Zylinder [TOGGLE]
-[12:05:40] [Server thread/INFO]: [CHAT] Cloaks [TOGGLE][<][>]
-[12:05:40] [Server thread/INFO]: [CHAT] Partikel [TOGGLE][<][>]
-[12:05:40] [Server thread/INFO]: [CHAT] 
-[12:05:40] [Server thread/INFO]: [CHAT] §f|----------|§bCosmetics§f|----------|
-[12:09:32] [Server thread/INFO]: [Player234: Set the time to 6000]
-[12:09:32] [Client thread/INFO]: [CHAT] Set the time to 6000
-[12:09:40] [Server thread/INFO]: [Player234: Game rule has been updated]
-[12:09:40] [Client thread/INFO]: [CHAT] Game rule has been updated
-[12:14:19] [Server thread/INFO]: Saving and pausing game...
-[12:14:19] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[12:14:19] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[12:14:19] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[12:14:20] [Server thread/INFO]: Stopping server
-[12:14:20] [Server thread/INFO]: Saving players
-[12:14:20] [Server thread/INFO]: Saving worlds
-[12:14:20] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[12:14:20] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[12:14:20] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[12:14:20] [Client thread/INFO]: Stopping!
-[12:14:20] [Client thread/INFO]: SoundSystem shutting down...
-[12:14:20] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[17:57:02] [Client thread/ERROR]: Can't find the resource index file: assets\indexes\1.8.json
+[17:57:02] [Client thread/INFO]: Setting user: Player250
+[17:57:02] [Client thread/INFO]: (Session ID is token:0:Player250)
+[17:57:03] [Client thread/INFO]: 
+
+          _____                   _____                   _____                   _____                   _____                  _______                  _____          
+         /\    \                 /\    \                 /\    \                 /\    \                 /\    \                /::\    \                /\    \         
+        /::\    \               /::\    \               /::\____\               /::\    \               /::\____\              /::::\    \              /::\    \        
+       /::::\    \              \:::\    \             /::::|   |              /::::\    \             /::::|   |             /::::::\    \            /::::\    \       
+      /::::::\    \              \:::\    \           /:::::|   |             /::::::\    \           /:::::|   |            /::::::::\    \          /::::::\    \      
+     /:::/\:::\    \              \:::\    \         /::::::|   |            /:::/\:::\    \         /::::::|   |           /:::/~~\:::\    \        /:::/\:::\    \     
+    /:::/__\:::\    \              \:::\    \       /:::/|::|   |           /:::/  \:::\    \       /:::/|::|   |          /:::/    \:::\    \      /:::/  \:::\    \    
+   /::::\   \:::\    \             /::::\    \     /:::/ |::|   |          /:::/    \:::\    \     /:::/ |::|   |         /:::/    / \:::\    \    /:::/    \:::\    \   
+  /::::::\   \:::\    \   ____    /::::::\    \   /:::/  |::|   | _____   /:::/    / \:::\    \   /:::/  |::|___|______  /:::/____/   \:::\____\  /:::/    / \:::\    \  
+ /:::/\:::\   \:::\____\ /\   \  /:::/\:::\    \ /:::/   |::|   |/\    \ /:::/    /   \:::\ ___\ /:::/   |::::::::\    \|:::|    |     |:::|    |/:::/    /   \:::\ ___\ 
+/:::/  \:::\   \:::|    /::\   \/:::/  \:::\____/:: /    |::|   /::\____/:::/____/  ___\:::|    /:::/    |:::::::::\____|:::|____|     |:::|    /:::/____/     \:::|    |
+\::/    \:::\  /:::|____\:::\  /:::/    \::/    \::/    /|::|  /:::/    \:::\    \ /\  /:::|____\::/    / ~~~~~/:::/    /\:::\    \   /:::/    /\:::\    \     /:::|____|
+ \/_____/\:::\/:::/    / \:::\/:::/    / \/____/ \/____/ |::| /:::/    / \:::\    /::\ \::/    / \/____/      /:::/    /  \:::\    \ /:::/    /  \:::\    \   /:::/    / 
+          \::::::/    /   \::::::/    /                  |::|/:::/    /   \:::\   \:::\ \/____/              /:::/    /    \:::\    /:::/    /    \:::\    \ /:::/    /  
+           \::::/    /     \::::/____/                   |::::::/    /     \:::\   \:::\____\               /:::/    /      \:::\__/:::/    /      \:::\    /:::/    /   
+            \::/____/       \:::\    \                   |:::::/    /       \:::\  /:::/    /              /:::/    /        \::::::::/    /        \:::\  /:::/    /    
+             ~~              \:::\    \                  |::::/    /         \:::\/:::/    /              /:::/    /          \::::::/    /          \:::\/:::/    /     
+                              \:::\    \                 /:::/    /           \::::::/    /              /:::/    /            \::::/    /            \::::::/    /      
+                               \:::\____\               /:::/    /             \::::/    /              /:::/    /              \::/____/              \::::/    /       
+                                \::/    /               \::/    /               \::/____/               \::/    /                ~~                     \::/____/        
+                                 \/____/                 \/____/                                         \/____/                                         ~~              
+                                                                                                                                                                         
+
+
+[17:57:03] [Client thread/INFO]: 
+
+  _                 __  __      __  __           _                  
+ | |               |  \/  |    |  \/  |         | |                 
+ | |__  _   _      | \  / |_ __| \  / |_   _ ___| |_ ___ _ __ _   _ 
+ | '_ \| | | |     | |\/| | '__| |\/| | | | / __| __/ _ \ '__| | | |
+ | |_) | |_| |     | |  | | |  | |  | | |_| \__ \ ||  __/ |  | |_| |
+ |_.__/ \__, |     |_|  |_|_|  |_|  |_|\__, |___/\__\___|_|   \__, |
+         __/ |                          __/ |                  __/ |
+        |___/                          |___/                  |___/ 
+
+
+[17:57:03] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:57:03] [Client thread/INFO]: Reloading ResourceManager: Default
+[17:57:03] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[17:57:03] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[17:57:03] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[17:57:03] [Thread-6/INFO]: OpenAL initialized.
+[17:57:04] [Sound Library Loader/INFO]: Sound engine started
+[17:57:05] [Client thread/INFO]: Created: 512x512 textures-atlas
+[17:58:51] [Client thread/INFO]: Stopping!
+[17:58:51] [Client thread/INFO]: SoundSystem shutting down...
+[17:58:51] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

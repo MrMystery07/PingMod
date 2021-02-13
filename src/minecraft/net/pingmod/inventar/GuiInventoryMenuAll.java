@@ -53,6 +53,7 @@ public class GuiInventoryMenuAll extends GuiScreen{
 		addonList.add("Classichat");
 		addonList.add("Zylinder");
 		addonList.add("Cloaks");
+		addonList.add("Partikel");
 	}
 	
 	@Override

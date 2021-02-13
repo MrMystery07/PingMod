@@ -37,6 +37,7 @@ import net.minecraft.world.storage.WorldInfo;
 import net.pingmod.addons.GuiInstalledMenu;
 import net.pingmod.inventar.GuiInventoryMenuAll;
 import net.pingmod.shop.GuiShop;
+import net.pingmod.updater.GuiUpdateAviable;
 import net.pingmod.updater.UpdateAviable;
 import net.pingmod.utils.ColorUtils;
 import net.pingmod.utils.PingMod;
@@ -313,7 +314,7 @@ public class GuiMainMenu extends GuiScreen implements GuiYesNoCallback
         	this.mc.displayGuiScreen(new GuiShop());
         }
         if(button.id == 110) {
-        	UpdateAviable.openWebpage(new URL("https://github.com/MrMystery07/PingMod"));
+        	Minecraft.getMinecraft().displayGuiScreen(new GuiUpdateAviable());
         }
     }
 
