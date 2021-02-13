@@ -7,4 +7,8 @@ public class Controller {
 	public static boolean ghostWings = false;
 	public static boolean wings = false;
 	public static boolean zylinder = false;
+	public static boolean cape = false;
+	public static int capeCount = 0;
+	public static boolean particle = false;
+	public static int particleCount = 0;
 }

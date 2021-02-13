@@ -1,89 +1,45 @@
-[19:55:53] [Client thread/ERROR]: Can't find the resource index file: assets\indexes\1.8.json
-[19:55:53] [Client thread/INFO]: Setting user: Player296
-[19:55:53] [Client thread/INFO]: (Session ID is token:0:Player296)
-[19:55:54] [Client thread/INFO]: LWJGL Version: 2.9.1
-[19:55:55] [Client thread/INFO]: Reloading ResourceManager: Default
-[19:55:55] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[19:55:55] [Thread-6/INFO]: Initializing LWJGL OpenAL
-[19:55:55] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[19:55:55] [Thread-6/INFO]: OpenAL initialized.
-[19:55:55] [Sound Library Loader/INFO]: Sound engine started
-[19:55:57] [Client thread/INFO]: Created: 512x512 textures-atlas
-[19:55:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:55:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:56:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:56:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:56:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:56:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[19:56:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[19:56:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[19:56:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[19:57:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[19:57:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[19:58:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[19:58:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[19:58:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[19:58:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[19:58:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[19:59:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[19:59:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[19:59:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[19:59:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[19:59:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[19:59:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[19:59:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[20:00:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[20:00:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[20:00:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[20:00:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:00:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:00:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:00:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:00:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:00:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:00:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:00:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:00:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[20:01:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[20:01:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[20:01:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:01:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[20:01:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[20:01:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[20:02:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[20:02:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[20:02:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[20:02:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[20:03:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[20:03:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[20:03:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:03:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:03:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:03:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:03:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:03:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:03:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:03:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:03:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:03:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:03:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:03:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:03:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:03:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:03:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:03:40] [Client thread/INFO]: Stopping!
-[20:03:40] [Client thread/INFO]: SoundSystem shutting down...
-[20:03:40] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[12:05:30] [Client thread/ERROR]: Can't find the resource index file: assets\indexes\1.8.json
+[12:05:30] [Client thread/INFO]: Setting user: Player234
+[12:05:30] [Client thread/INFO]: (Session ID is token:0:Player234)
+[12:05:31] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:05:31] [Client thread/INFO]: Reloading ResourceManager: Default
+[12:05:31] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:05:31] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[12:05:31] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:05:31] [Thread-6/INFO]: OpenAL initialized.
+[12:05:32] [Sound Library Loader/INFO]: Sound engine started
+[12:05:33] [Client thread/INFO]: Created: 512x512 textures-atlas
+[12:05:35] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[12:05:35] [Server thread/INFO]: Generating keypair
+[12:05:35] [Server thread/INFO]: Preparing start region for level 0
+[12:05:36] [Server thread/INFO]: Changing view distance to 8, from 10
+[12:05:36] [Server thread/INFO]: Player234[local:E:e7068e59] logged in with entity id 146 at (-118.44800624074665, 63.0, 5.594030137676905)
+[12:05:36] [Server thread/INFO]: Player234 joined the game
+[12:05:40] [Server thread/INFO]: [CHAT] §f|----------|§bCosmetics§f|----------|
+[12:05:40] [Server thread/INFO]: [CHAT] 
+[12:05:40] [Server thread/INFO]: [CHAT] Wings [TOGGLE]
+[12:05:40] [Server thread/INFO]: [CHAT] Ghostwings [TOGGLE]
+[12:05:40] [Server thread/INFO]: [CHAT] Witchhat [TOGGLE]
+[12:05:40] [Server thread/INFO]: [CHAT] Classichat [TOGGLE]
+[12:05:40] [Server thread/INFO]: [CHAT] Zylinder [TOGGLE]
+[12:05:40] [Server thread/INFO]: [CHAT] Cloaks [TOGGLE][<][>]
+[12:05:40] [Server thread/INFO]: [CHAT] Partikel [TOGGLE][<][>]
+[12:05:40] [Server thread/INFO]: [CHAT] 
+[12:05:40] [Server thread/INFO]: [CHAT] §f|----------|§bCosmetics§f|----------|
+[12:09:32] [Server thread/INFO]: [Player234: Set the time to 6000]
+[12:09:32] [Client thread/INFO]: [CHAT] Set the time to 6000
+[12:09:40] [Server thread/INFO]: [Player234: Game rule has been updated]
+[12:09:40] [Client thread/INFO]: [CHAT] Game rule has been updated
+[12:14:19] [Server thread/INFO]: Saving and pausing game...
+[12:14:19] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:14:19] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:14:19] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:14:20] [Server thread/INFO]: Stopping server
+[12:14:20] [Server thread/INFO]: Saving players
+[12:14:20] [Server thread/INFO]: Saving worlds
+[12:14:20] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:14:20] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:14:20] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:14:20] [Client thread/INFO]: Stopping!
+[12:14:20] [Client thread/INFO]: SoundSystem shutting down...
+[12:14:20] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

@@ -25,7 +25,7 @@ public class CommandReload extends PingModAddon{
 			e.printStackTrace();
 		}
 		PingModAddonManager.commands.add(new CommandReload("reload"));
-		PingModAddon.msg("Â§eDeine installierten Addons wurden neugeladen!");
+		PingModAddon.msg("§eDeine installierten Addons wurden neugeladen!");
 		
 	}
 

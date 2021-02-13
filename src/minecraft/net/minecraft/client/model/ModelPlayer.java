@@ -1,8 +1,11 @@
 package net.minecraft.client.model;
 
+import java.util.Random;
+
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.GlStateManager;
 import net.minecraft.entity.Entity;
+import net.minecraft.util.MathHelper;
 import net.minecraft.util.ResourceLocation;
 import net.pingmod.cosmetics.Controller;
 import net.pingmod.utils.ColorUtils;
@@ -15,6 +18,7 @@ public class ModelPlayer extends ModelBiped {
 	public ModelRenderer field_178730_v;
 	private ModelRenderer field_178729_w;
 	private ModelRenderer field_178736_x;
+	private ModelRenderer animatedCape;
 	private boolean field_178735_y;
 	private static final String __OBFID = "CL_00002626";
 
@@ -30,6 +34,10 @@ public class ModelPlayer extends ModelBiped {
 		this.field_178729_w = new ModelRenderer(this, 0, 0);
 		this.field_178729_w.setTextureSize(64, 32);
 		this.field_178729_w.addBox(-5.0F, 0.0F, -1.0F, 10, 16, 1, p_i46304_1_);
+		this.animatedCape = new ModelRenderer(this, 0, 0);
+		this.animatedCape.setTextureSize(21, 17);
+		this.animatedCape.addBox(-5.0F, 0.0F, -1.0F, 10, 16, 1, p_i46304_1_);
+        byte var1 = -16;
 
 		if (p_i46304_2_) {
 			this.bipedLeftArm = new ModelRenderer(this, 32, 48);
@@ -239,7 +247,7 @@ public class ModelPlayer extends ModelBiped {
 					}
 	            GlStateManager.disableBlend();
 				}else {
-					
+
 				}
 		}
 
@@ -256,6 +264,11 @@ public class ModelPlayer extends ModelBiped {
 	public void func_178728_c(float p_178728_1_) {
 		this.field_178729_w.render(p_178728_1_);
 	}
+	
+	public void renderAnimatedCape(float p_178728_1_) {
+		this.animatedCape.render(p_178728_1_);
+	}
+
 
 	/**
 	 * Sets the model's various rotation angles. For bipeds, par1 and par2 are used
@@ -277,6 +290,7 @@ public class ModelPlayer extends ModelBiped {
 		} else {
 			this.field_178729_w.rotationPointY = 0.0F;
 		}
+	
 	}
 
 	public void func_178725_a() {

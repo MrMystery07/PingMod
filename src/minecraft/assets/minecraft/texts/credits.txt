@@ -1,66 +1,66 @@
-[C]Â§f===============
-[C]Â§eMinecraft Credits
-[C]Â§f===============
+[C]§f===============
+[C]§eMinecraft Credits
+[C]§f===============
 
-Â§7Created by:
-Â§f			Markus Persson
+§7Created by:
+§f			Markus Persson
 
-Â§7Game design, programming and graphics:
-Â§f			Markus Persson
-Â§f			Jens Bergensten
-Â§f			Nathan Adams
+§7Game design, programming and graphics:
+§f			Markus Persson
+§f			Jens Bergensten
+§f			Nathan Adams
 
-Â§7Programming:
-Â§f			Erik Broes
+§7Programming:
+§f			Erik Broes
 
-Â§7Music and sound:
-Â§f			Daniel Rosenfeld
+§7Music and sound:
+§f			Daniel Rosenfeld
 
-Â§7Ingame artwork and paintings:
-Â§f			Kristoffer Zetterstrand
+§7Ingame artwork and paintings:
+§f			Kristoffer Zetterstrand
 
-Â§7End game narrative:
-Â§f			Julian Gough
+§7End game narrative:
+§f			Julian Gough
 
-Â§7Website development:
-Â§f			Tobias MÃ¶llstam
-Â§f			Daniel Frisk
-Â§f			Leonard Axelsson
-Â§f			Jens Bergensten
-Â§f			Markus Persson
+§7Website development:
+§f			Tobias MÃ¶llstam
+§f			Daniel Frisk
+§f			Leonard Axelsson
+§f			Jens Bergensten
+§f			Markus Persson
 
-Â§7Logo and promotional artwork:
-Â§f			Markus Toivonen
+§7Logo and promotional artwork:
+§f			Markus Toivonen
 
-Â§7Business and administration:
-Â§f			Carl Manneh
-Â§f			Daniel Kaplan
+§7Business and administration:
+§f			Carl Manneh
+§f			Daniel Kaplan
 
-Â§7Director of fun:
-Â§f			Lydia Winters
+§7Director of fun:
+§f			Lydia Winters
 
-Â§7Number crunching and statistics:
-Â§f			Patrick Geuder
+§7Number crunching and statistics:
+§f			Patrick Geuder
 
-Â§7Additional programming:
-Â§f			Paul Spooner
-Â§f			Ryan 'Scaevolus' Hitchman
-Â§f			Elliot 'Hippoplatimus' Segal
+§7Additional programming:
+§f			Paul Spooner
+§f			Ryan 'Scaevolus' Hitchman
+§f			Elliot 'Hippoplatimus' Segal
 
-Â§7Developers of Mo' Creatures (horses etc):
-Â§f			John Olarte (DrZhark)
-Â§f			Kent Christian Jensen
-Â§f			Dan Roque
+§7Developers of Mo' Creatures (horses etc):
+§f			John Olarte (DrZhark)
+§f			Kent Christian Jensen
+§f			Dan Roque
 
-Â§7Technologies used:
-Â§f			Java by Oracle
-Â§f			LWJGL by many talented people
-Â§f			"3d Sound System" by Paul Lamb
-Â§f			JOrbis by JCraft
-
-
+§7Technologies used:
+§f			Java by Oracle
+§f			LWJGL by many talented people
+§f			"3d Sound System" by Paul Lamb
+§f			JOrbis by JCraft
 
 
 
 
-Â§f"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover." Â§7- Unknown
+
+
+§f"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover." §7- Unknown

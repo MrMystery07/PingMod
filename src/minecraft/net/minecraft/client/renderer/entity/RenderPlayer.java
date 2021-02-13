@@ -22,6 +22,7 @@ import net.minecraft.scoreboard.Scoreboard;
 import net.minecraft.util.ResourceLocation;
 import net.pingmod.cosmetics.ClassicHat;
 import net.pingmod.cosmetics.Controller;
+import net.pingmod.cosmetics.CosmeticCape;
 import net.pingmod.cosmetics.WitchHat;
 import net.pingmod.cosmetics.Zylinder;
 
@@ -46,6 +47,7 @@ public class RenderPlayer extends RendererLivingEntity {
 		this.addLayer(new WitchHat());
 		this.addLayer(new ClassicHat());
 		this.addLayer(new Zylinder());
+		this.addLayer(new CosmeticCape(this));
 	}
 
 	public ModelPlayer func_177136_g() {
